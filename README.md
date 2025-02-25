@@ -22,5 +22,5 @@ This project is a basic blockchain simulation implemented in Java. It mimics the
 ### Running the Project
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/Simple-Blockchain-Java.git
-   cd Simple-Blockchain-Java
+   git clone https://github.com/bhawana26/Simple-Blockchain-Java.git
+  
